@@ -1,0 +1,1 @@
+please run npm install before use, then to run the appliation run the npm start command.
